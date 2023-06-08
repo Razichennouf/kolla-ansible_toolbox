@@ -1,7 +1,7 @@
 # kolla-ansible_toolbox
 <h1 style="color: #0366d6;">Docker Cleanup Script for Kolla-Ansible Deployment</h1>
 
-<h2 style="color: #0366d6;">Description</h2>
+
 <h2>💡 Why Use These Scripts:</h2>
 
 <ul>
@@ -11,6 +11,8 @@
   <li>Benefit from best practices and optimized solutions.</li>
   <li>Contribute to and collaborate with the open-source community.</li>
 </ul>
+
+<h2 style="color: #0366d6;">Description</h2>
 
 <p>
     This script provides a convenient way to clean up Docker containers, images, volumes, and temporary files in a Kolla-Ansible deployment. It helps to ensure a clean and efficient Docker environment by removing unused resources and temporary files.
