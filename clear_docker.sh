@@ -67,7 +67,7 @@ echo "*************************************************"
 #Remove temporary files
 rm -rf /tmp/*
 echo "Removed temporary files"
-#Stop and start docker daemon to prevent this error 
+#Stop and start docker daemon to prevent this error "failed to register layer"
 service docker stop
 service docker start
 echo "Docker Daemon restarted"
